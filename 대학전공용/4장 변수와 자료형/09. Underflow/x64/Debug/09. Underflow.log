@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\82108\source\repos\04. 변수와 자료형\09. Underflow\소스.c(5,8): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\82108\source\repos\04. 변수와 자료형\09. Underflow\소스.c(5,25): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\82108\source\repos\04. 변수와 자료형\09. Underflow\소스.c(5,42): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  09. Underflow.vcxproj -> C:\Users\82108\source\repos\04. 변수와 자료형\x64\Debug\09. Underflow.exe

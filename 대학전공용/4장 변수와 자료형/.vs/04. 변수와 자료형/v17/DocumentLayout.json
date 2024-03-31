@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82108\\source\\repos\\04. \uBCC0\uC218\uC640 \uC790\uB8CC\uD615\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A00FEDCA-FB5B-4C2C-A343-87314312CDF7}|28. Integer_Variable\\28. Integer_Variable.vcxproj|C:\\Users\\82108\\source\\repos\\04. \uBCC0\uC218\uC640 \uC790\uB8CC\uD615\\28. Integer_Variable\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00FEDCA-FB5B-4C2C-A343-87314312CDF7}|28. Integer_Variable\\28. Integer_Variable.vcxproj|solutionrelative:28. Integer_Variable\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8212A8-236A-443C-91B1-AF3A84F61F6B}|27. Print_ASCII\\27. Print_ASCII.vcxproj|C:\\Users\\82108\\source\\repos\\04. \uBCC0\uC218\uC640 \uC790\uB8CC\uD615\\27. Print_ASCII\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD8212A8-236A-443C-91B1-AF3A84F61F6B}|27. Print_ASCII\\27. Print_ASCII.vcxproj|solutionrelative:27. Print_ASCII\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\04. \uBCC0\uC218\uC640 \uC790\uB8CC\uD615\\28. Integer_Variable\\\uC18C\uC2A4.c",
+              "RelativeDocumentMoniker": "28. Integer_Variable\\\uC18C\uC2A4.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\04. \uBCC0\uC218\uC640 \uC790\uB8CC\uD615\\28. Integer_Variable\\\uC18C\uC2A4.c",
+              "RelativeToolTip": "28. Integer_Variable\\\uC18C\uC2A4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-23T07:24:17.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uC18C\uC2A4.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\04. \uBCC0\uC218\uC640 \uC790\uB8CC\uD615\\27. Print_ASCII\\\uC18C\uC2A4.c",
+              "RelativeDocumentMoniker": "27. Print_ASCII\\\uC18C\uC2A4.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\04. \uBCC0\uC218\uC640 \uC790\uB8CC\uD615\\27. Print_ASCII\\\uC18C\uC2A4.c",
+              "RelativeToolTip": "27. Print_ASCII\\\uC18C\uC2A4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-23T07:21:10.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
