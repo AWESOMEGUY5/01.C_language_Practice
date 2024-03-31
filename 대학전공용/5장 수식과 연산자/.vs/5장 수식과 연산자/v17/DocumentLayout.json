@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{806B6475-DB2A-4B59-B19E-61F97156585C}|06. Assignment\\06. Assignment.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\06. Assignment\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{806B6475-DB2A-4B59-B19E-61F97156585C}|06. Assignment\\06. Assignment.vcxproj|solutionrelative:06. Assignment\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C83B113-CE24-4E21-B19F-DFDF0BA5AD1F}|05. Charge_Cal\\05. Charge_Cal.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\05. Charge_Cal\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3C83B113-CE24-4E21-B19F-DFDF0BA5AD1F}|05. Charge_Cal\\05. Charge_Cal.vcxproj|solutionrelative:05. Charge_Cal\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BEA7312-7CCC-426F-8F39-29CD4FDE64BD}|04. incdec\\04. incdec.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\04. incdec\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4BEA7312-7CCC-426F-8F39-29CD4FDE64BD}|04. incdec\\04. incdec.vcxproj|solutionrelative:04. incdec\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{449D04D8-CF10-44D8-82FE-C92EE525DEF4}|07. Adder\\07. Adder.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\07. Adder\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{449D04D8-CF10-44D8-82FE-C92EE525DEF4}|07. Adder\\07. Adder.vcxproj|solutionrelative:07. Adder\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,38 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\uC18C\uC2A4.c",
-              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\06. Assignment\\\uC18C\uC2A4.c",
-              "RelativeDocumentMoniker": "06. Assignment\\\uC18C\uC2A4.c",
-              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\06. Assignment\\\uC18C\uC2A4.c",
-              "RelativeToolTip": "06. Assignment\\\uC18C\uC2A4.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\07. Adder\\\uC18C\uC2A4.c",
+              "RelativeDocumentMoniker": "07. Adder\\\uC18C\uC2A4.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\07. Adder\\\uC18C\uC2A4.c",
+              "RelativeToolTip": "07. Adder\\\uC18C\uC2A4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-27T05:55:25.057Z",
+              "WhenOpened": "2024-03-31T13:47:04.83Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\uC18C\uC2A4.c",
-              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\05. Charge_Cal\\\uC18C\uC2A4.c",
-              "RelativeDocumentMoniker": "05. Charge_Cal\\\uC18C\uC2A4.c",
-              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\05. Charge_Cal\\\uC18C\uC2A4.c",
-              "RelativeToolTip": "05. Charge_Cal\\\uC18C\uC2A4.c",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-27T04:57:01.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "\uC18C\uC2A4.c",
-              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\04. incdec\\\uC18C\uC2A4.c",
-              "RelativeDocumentMoniker": "04. incdec\\\uC18C\uC2A4.c",
-              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\04. incdec\\\uC18C\uC2A4.c",
-              "RelativeToolTip": "04. incdec\\\uC18C\uC2A4.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-27T04:20:38.185Z"
             }
           ]
         },
@@ -67,6 +35,10 @@
           "DockedWidth": 68,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"

@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05. Charge_Cal", "05. Charg
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06. Assignment", "06. Assignment\06. Assignment.vcxproj", "{806B6475-DB2A-4B59-B19E-61F97156585C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07. Adder", "07. Adder\07. Adder.vcxproj", "{449D04D8-CF10-44D8-82FE-C92EE525DEF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{806B6475-DB2A-4B59-B19E-61F97156585C}.Release|x64.Build.0 = Release|x64
 		{806B6475-DB2A-4B59-B19E-61F97156585C}.Release|x86.ActiveCfg = Release|Win32
 		{806B6475-DB2A-4B59-B19E-61F97156585C}.Release|x86.Build.0 = Release|Win32
+		{449D04D8-CF10-44D8-82FE-C92EE525DEF4}.Debug|x64.ActiveCfg = Debug|x64
+		{449D04D8-CF10-44D8-82FE-C92EE525DEF4}.Debug|x64.Build.0 = Debug|x64
+		{449D04D8-CF10-44D8-82FE-C92EE525DEF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{449D04D8-CF10-44D8-82FE-C92EE525DEF4}.Debug|x86.Build.0 = Debug|Win32
+		{449D04D8-CF10-44D8-82FE-C92EE525DEF4}.Release|x64.ActiveCfg = Release|x64
+		{449D04D8-CF10-44D8-82FE-C92EE525DEF4}.Release|x64.Build.0 = Release|x64
+		{449D04D8-CF10-44D8-82FE-C92EE525DEF4}.Release|x86.ActiveCfg = Release|Win32
+		{449D04D8-CF10-44D8-82FE-C92EE525DEF4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
