@@ -4,30 +4,11 @@
 
 int main(void)
 {
-	printf("기사시험 과락 판독기\n");
-	int math, language;
-	printf("점수를 입력하시오 : "); scanf("%d %d", &math, &language);
-	
-	if (math >= 60 && language >= 60) 
-	{
-		printf("pass\n");
-	}
-	else
-	{
-		printf("not pass\n");
-	}
-	
-	printf("기능사시험 과학 판독기"); 
-	printf("점수를 입력하시오 : "); scanf("%d %d", &math, &language);
-	if (math >= 60 || language >= 60)
-	{
-		printf("pass\n");
-	}
-	else
-	{
-		printf("not pass\n");
-	}
+	int x, y;
 
-	printf("1의 보수");
-	return 0;
+	printf("정수 2개를 입력하시오. : "); scanf("%d %d", &x, &y);
+
+	printf("%d && %d의 결과값 : %d\n", x, y, x && y);
+	printf("%d || %d의 결과값 : %d\n", x, y, x || y);
+	printf("!%d의 결과값 : %d\n", x, !x);
 }

@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{85E9FAF2-EAEC-42B5-8782-8DE6580F8851}|10. Relational\\10. Relational.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\10. Relational\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{85E9FAF2-EAEC-42B5-8782-8DE6580F8851}|10. Relational\\10. Relational.vcxproj|solutionrelative:10. Relational\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0398CE-E4F8-4960-B9B7-6F0EBA10A203}|09. fcompare\\09. fcompare.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\09. fcompare\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8A0398CE-E4F8-4960-B9B7-6F0EBA10A203}|09. fcompare\\09. fcompare.vcxproj|solutionrelative:09. fcompare\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,40 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 332,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "\uC18C\uC2A4.c",
-              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\10. Relational\\\uC18C\uC2A4.c",
-              "RelativeDocumentMoniker": "10. Relational\\\uC18C\uC2A4.c",
-              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\10. Relational\\\uC18C\uC2A4.c",
-              "RelativeToolTip": "10. Relational\\\uC18C\uC2A4.c",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwB4AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-01T14:53:12.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\uC18C\uC2A4.c",
-              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\09. fcompare\\\uC18C\uC2A4.c",
-              "RelativeDocumentMoniker": "09. fcompare\\\uC18C\uC2A4.c",
-              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\09. fcompare\\\uC18C\uC2A4.c",
-              "RelativeToolTip": "09. fcompare\\\uC18C\uC2A4.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-01T14:47:14.129Z"
             }
           ]
         }
