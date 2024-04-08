@@ -24,6 +24,7 @@
     <ProjectGuid>{f69edbbb-9722-4088-a466-97cfccb7e3b6}</ProjectGuid>
     <RootNamespace>Ex4MetrictoImperialUnit</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Ex04. Metric_to_ImperialUnit</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{b391ba00-85fd-41c8-9957-57cccda3903e}</ProjectGuid>
     <RootNamespace>Ex1PrintOdds</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Ex01. Print_Odds</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

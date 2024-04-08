@@ -24,6 +24,7 @@
     <ProjectGuid>{4f5026da-8b8d-498e-807b-9de355a351e9}</ProjectGuid>
     <RootNamespace>Ex2DoubleCal</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Ex02. Double_Cal</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

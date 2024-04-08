@@ -24,6 +24,7 @@
     <ProjectGuid>{ae48590a-b54e-44b5-963a-7914a291aabb}</ProjectGuid>
     <RootNamespace>Ex3MaxValue</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Ex03. Max_Value</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
