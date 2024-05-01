@@ -1,2 +1,3 @@
 ﻿  소스.c
-  02. IF2.vcxproj -> C:\Users\82108\Desktop\수업, 발표 자료\D01. C프로그래밍\02. 제출 자료\6장. 조건문\x64\Debug\02. IF2.exe
+  02. IF2.vcxproj -> C:\Users\82108\source\repos\대학전공용\6장 조건문\x64\Debug\02. IF2.exe
+C:\Users\82108\source\repos\대학전공용\6장 조건문\02. IF2\소스.c(7): warning C6031: 반환 값이 무시되었습니다. 'scanf'.

@@ -1,0 +1,2 @@
+C:\Users\82108\source\repos\대학전공용\6장 조건문\x64\Debug\01. IF1.exe.lastcodeanalysissucceeded
+C:\Users\82108\source\repos\대학전공용\6장 조건문\01. IF1\x64\Debug\NativeCodeAnalysis.read.1.tlog

@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\",
+  "WorkspaceRootPath": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\6\uC7A5 \uC870\uAC74\uBB38\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E579E836-D193-4484-B9C8-7C4BD4478703}|05. IF-else\\05. IF-else.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\05. IF-else\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E579E836-D193-4484-B9C8-7C4BD4478703}|05. IF-else\\05. IF-else.vcxproj|solutionrelative:05. IF-else\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0ABB2468-821F-43B8-87E1-B89183955263}|14. Else-IF \uBCF5\uD569 \uACC4\uC0B0\uAE302\\14. Else-IF \uBCF5\uD569 \uACC4\uC0B0\uAE302.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\6\uC7A5 \uC870\uAC74\uBB38\\14. Else-IF \uBCF5\uD569 \uACC4\uC0B0\uAE302\\Else-IF5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0ABB2468-821F-43B8-87E1-B89183955263}|14. Else-IF \uBCF5\uD569 \uACC4\uC0B0\uAE302\\14. Else-IF \uBCF5\uD569 \uACC4\uC0B0\uAE302.vcxproj|solutionrelative:14. Else-IF \uBCF5\uD569 \uACC4\uC0B0\uAE302\\Else-IF5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC6F8C36-5BB0-45A7-B654-DA84E6DA08A4}|02. IF2\\02. IF2.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\02. IF2\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FC6F8C36-5BB0-45A7-B654-DA84E6DA08A4}|02. IF2\\02. IF2.vcxproj|solutionrelative:02. IF2\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FDD15321-5D94-4C8A-B912-2B10667EC956}|13. Else-IF4 \uC0B0\uC220 \uACC4\uC0B0\uAE30\\13. Else-IF4 \uC0B0\uC220 \uACC4\uC0B0\uAE30.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\6\uC7A5 \uC870\uAC74\uBB38\\13. Else-IF4 \uC0B0\uC220 \uACC4\uC0B0\uAE30\\Else-IF4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDD15321-5D94-4C8A-B912-2B10667EC956}|13. Else-IF4 \uC0B0\uC220 \uACC4\uC0B0\uAE30\\13. Else-IF4 \uC0B0\uC220 \uACC4\uC0B0\uAE30.vcxproj|solutionrelative:13. Else-IF4 \uC0B0\uC220 \uACC4\uC0B0\uAE30\\Else-IF4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{481E10CC-F151-486C-AA82-C6E2182000EB}|03. \uBCF5\uD569\uBB38(\uBE14\uB85D)\\03. \uBCF5\uD569\uBB38(\uBE14\uB85D).vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\03. \uBCF5\uD569\uBB38(\uBE14\uB85D)\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{481E10CC-F151-486C-AA82-C6E2182000EB}|03. \uBCF5\uD569\uBB38(\uBE14\uB85D)\\03. \uBCF5\uD569\uBB38(\uBE14\uB85D).vcxproj|solutionrelative:03. \uBCF5\uD569\uBB38(\uBE14\uB85D)\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24FC9DFC-CC33-49D5-8184-90AA0A23E7AC}|04. \uCC38\uACFC \uAC70\uC9D3\\04. \uCC38\uACFC \uAC70\uC9D3.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\04. \uCC38\uACFC \uAC70\uC9D3\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{24FC9DFC-CC33-49D5-8184-90AA0A23E7AC}|04. \uCC38\uACFC \uAC70\uC9D3\\04. \uCC38\uACFC \uAC70\uC9D3.vcxproj|solutionrelative:04. \uCC38\uACFC \uAC70\uC9D3\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{807033D4-2832-4D3F-BC33-903B7960AF12}|12. Else-IF \uADFC\uC758 \uACF5\uC2DD\\12. Else-IF \uADFC\uC758 \uACF5\uC2DD.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\6\uC7A5 \uC870\uAC74\uBB38\\12. Else-IF \uADFC\uC758 \uACF5\uC2DD\\Else-IF3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{807033D4-2832-4D3F-BC33-903B7960AF12}|12. Else-IF \uADFC\uC758 \uACF5\uC2DD\\12. Else-IF \uADFC\uC758 \uACF5\uC2DD.vcxproj|solutionrelative:12. Else-IF \uADFC\uC758 \uACF5\uC2DD\\Else-IF3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 332,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\uC18C\uC2A4.c",
-              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\05. IF-else\\\uC18C\uC2A4.c",
-              "RelativeDocumentMoniker": "05. IF-else\\\uC18C\uC2A4.c",
-              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\05. IF-else\\\uC18C\uC2A4.c",
-              "RelativeToolTip": "05. IF-else\\\uC18C\uC2A4.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "Else-IF5.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\6\uC7A5 \uC870\uAC74\uBB38\\14. Else-IF \uBCF5\uD569 \uACC4\uC0B0\uAE302\\Else-IF5.c",
+              "RelativeDocumentMoniker": "14. Else-IF \uBCF5\uD569 \uACC4\uC0B0\uAE302\\Else-IF5.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\6\uC7A5 \uC870\uAC74\uBB38\\14. Else-IF \uBCF5\uD569 \uACC4\uC0B0\uAE302\\Else-IF5.c",
+              "RelativeToolTip": "14. Else-IF \uBCF5\uD569 \uACC4\uC0B0\uAE302\\Else-IF5.c",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAhwCAAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-30T06:12:22.79Z",
+              "WhenOpened": "2024-05-01T04:26:56.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "\uC18C\uC2A4.c",
-              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\02. IF2\\\uC18C\uC2A4.c",
-              "RelativeDocumentMoniker": "02. IF2\\\uC18C\uC2A4.c",
-              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\02. IF2\\\uC18C\uC2A4.c",
-              "RelativeToolTip": "02. IF2\\\uC18C\uC2A4.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "Else-IF4.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\6\uC7A5 \uC870\uAC74\uBB38\\13. Else-IF4 \uC0B0\uC220 \uACC4\uC0B0\uAE30\\Else-IF4.c",
+              "RelativeDocumentMoniker": "13. Else-IF4 \uC0B0\uC220 \uACC4\uC0B0\uAE30\\Else-IF4.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\6\uC7A5 \uC870\uAC74\uBB38\\13. Else-IF4 \uC0B0\uC220 \uACC4\uC0B0\uAE30\\Else-IF4.c",
+              "RelativeToolTip": "13. Else-IF4 \uC0B0\uC220 \uACC4\uC0B0\uAE30\\Else-IF4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-30T06:12:13.871Z",
+              "WhenOpened": "2024-05-01T04:14:54.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "\uC18C\uC2A4.c",
-              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\03. \uBCF5\uD569\uBB38(\uBE14\uB85D)\\\uC18C\uC2A4.c",
-              "RelativeDocumentMoniker": "03. \uBCF5\uD569\uBB38(\uBE14\uB85D)\\\uC18C\uC2A4.c",
-              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\03. \uBCF5\uD569\uBB38(\uBE14\uB85D)\\\uC18C\uC2A4.c",
-              "RelativeToolTip": "03. \uBCF5\uD569\uBB38(\uBE14\uB85D)\\\uC18C\uC2A4.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Title": "Else-IF3.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\6\uC7A5 \uC870\uAC74\uBB38\\12. Else-IF \uADFC\uC758 \uACF5\uC2DD\\Else-IF3.c",
+              "RelativeDocumentMoniker": "12. Else-IF \uADFC\uC758 \uACF5\uC2DD\\Else-IF3.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\6\uC7A5 \uC870\uAC74\uBB38\\12. Else-IF \uADFC\uC758 \uACF5\uC2DD\\Else-IF3.c",
+              "RelativeToolTip": "12. Else-IF \uADFC\uC758 \uACF5\uC2DD\\Else-IF3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-30T05:56:30.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "\uC18C\uC2A4.c",
-              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\04. \uCC38\uACFC \uAC70\uC9D3\\\uC18C\uC2A4.c",
-              "RelativeDocumentMoniker": "04. \uCC38\uACFC \uAC70\uC9D3\\\uC18C\uC2A4.c",
-              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\6\uC7A5. \uC870\uAC74\uBB38\\04. \uCC38\uACFC \uAC70\uC9D3\\\uC18C\uC2A4.c",
-              "RelativeToolTip": "04. \uCC38\uACFC \uAC70\uC9D3\\\uC18C\uC2A4.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-30T05:56:13.271Z",
+              "WhenOpened": "2024-05-01T04:00:07.515Z",
               "EditorCaption": ""
             }
           ]
