@@ -4,7 +4,7 @@
 
 int main(void)
 {
-	int input1, input2, result; char oper;
+	int input1, input2, result = 0; char oper;
 
 	printf("수식을 입력하시오. : "), scanf("%d %c %d", &input1, &oper, &input2);
 
