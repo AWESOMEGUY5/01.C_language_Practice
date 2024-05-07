@@ -24,7 +24,7 @@
     <ProjectGuid>{40f6c48d-6468-4ad0-8ee3-fff7fef172cc}</ProjectGuid>
     <RootNamespace>Ex2가위바위보</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Ex3. 가위바위보</ProjectName>
+    <ProjectName>Ex03. 가위바위보</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{7ed5f72f-415b-4f7b-aefa-89018cfb0df9}</ProjectGuid>
     <RootNamespace>Ex1약수판별기</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Ex01. 약수판별기</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
