@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\1~2\uAC15_Hello_World\\",
+  "WorkspaceRootPath": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\2\uC7A5 Hello_World\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFD036BA-2D40-4DE7-837D-B869128CA3EF}|hello\\hello.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\1~2\uAC15_Hello_World\\hello\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BFD036BA-2D40-4DE7-837D-B869128CA3EF}|hello\\hello.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\2\uC7A5 Hello_World\\hello\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BFD036BA-2D40-4DE7-837D-B869128CA3EF}|hello\\hello.vcxproj|solutionrelative:hello\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\uC18C\uC2A4.c",
-              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\1~2\uAC15_Hello_World\\hello\\\uC18C\uC2A4.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\2\uC7A5 Hello_World\\hello\\\uC18C\uC2A4.c",
               "RelativeDocumentMoniker": "hello\\\uC18C\uC2A4.c",
-              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\1~2\uAC15_Hello_World\\hello\\\uC18C\uC2A4.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\2\uC7A5 Hello_World\\hello\\\uC18C\uC2A4.c",
               "RelativeToolTip": "hello\\\uC18C\uC2A4.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
