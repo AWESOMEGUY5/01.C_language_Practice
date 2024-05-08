@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\3\uC7A5 C\uD504\uB85C\uADF8\uB7A8 \uAD6C\uC131\uC694\uC18C\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{399DA15D-8C30-47D7-80E7-0A728DF973CF}|08. Scanf3_Won_Dollar_Exchange\\08. Scanf3_Won_Dollar_Exchange.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\3\uC7A5 C\uD504\uB85C\uADF8\uB7A8 \uAD6C\uC131\uC694\uC18C\\08. Scanf3_Won_Dollar_Exchange\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{399DA15D-8C30-47D7-80E7-0A728DF973CF}|08. Scanf3_Won_Dollar_Exchange\\08. Scanf3_Won_Dollar_Exchange.vcxproj|solutionrelative:08. Scanf3_Won_Dollar_Exchange\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F3F29B3F-A692-4DE9-93CD-8E9B3C5E5D4B}|07. Scanf\\07. Scanf.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\3\uC7A5 C\uD504\uB85C\uADF8\uB7A8 \uAD6C\uC131\uC694\uC18C\\07. Scanf\\\uC18C\uC2A41.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3F29B3F-A692-4DE9-93CD-8E9B3C5E5D4B}|07. Scanf\\07. Scanf.vcxproj|solutionrelative:07. Scanf\\\uC18C\uC2A41.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3F29B3F-A692-4DE9-93CD-8E9B3C5E5D4B}|07. Scanf\\07. Scanf.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\3\uC7A5 C\uD504\uB85C\uADF8\uB7A8 \uAD6C\uC131\uC694\uC18C\\07. Scanf\\\uC18C\uC2A41.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F3F29B3F-A692-4DE9-93CD-8E9B3C5E5D4B}|07. Scanf\\07. Scanf.vcxproj|solutionrelative:07. Scanf\\\uC18C\uC2A41.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{399DA15D-8C30-47D7-80E7-0A728DF973CF}|08. Scanf3_Won_Dollar_Exchange\\08. Scanf3_Won_Dollar_Exchange.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\3\uC7A5 C\uD504\uB85C\uADF8\uB7A8 \uAD6C\uC131\uC694\uC18C\\08. Scanf3_Won_Dollar_Exchange\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{399DA15D-8C30-47D7-80E7-0A728DF973CF}|08. Scanf3_Won_Dollar_Exchange\\08. Scanf3_Won_Dollar_Exchange.vcxproj|solutionrelative:08. Scanf3_Won_Dollar_Exchange\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F25EB80-C0D1-4D1B-B0F4-14E5BBA5850B}|15. Cal_Mass_on_the_Moon\\15. Cal_Mass_on_the_Moon.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\3\uC7A5 C\uD504\uB85C\uADF8\uB7A8 \uAD6C\uC131\uC694\uC18C\\15. Cal_Mass_on_the_Moon\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "\uC18C\uC2A4.c",
               "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\3\uC7A5 C\uD504\uB85C\uADF8\uB7A8 \uAD6C\uC131\uC694\uC18C\\08. Scanf3_Won_Dollar_Exchange\\\uC18C\uC2A4.c",
               "RelativeDocumentMoniker": "08. Scanf3_Won_Dollar_Exchange\\\uC18C\uC2A4.c",
@@ -47,15 +47,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\uC18C\uC2A41.cpp",
-              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\3\uC7A5 C\uD504\uB85C\uADF8\uB7A8 \uAD6C\uC131\uC694\uC18C\\07. Scanf\\\uC18C\uC2A41.cpp",
-              "RelativeDocumentMoniker": "07. Scanf\\\uC18C\uC2A41.cpp",
-              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\3\uC7A5 C\uD504\uB85C\uADF8\uB7A8 \uAD6C\uC131\uC694\uC18C\\07. Scanf\\\uC18C\uC2A41.cpp",
-              "RelativeToolTip": "07. Scanf\\\uC18C\uC2A41.cpp",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A41.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\3\uC7A5 C\uD504\uB85C\uADF8\uB7A8 \uAD6C\uC131\uC694\uC18C\\07. Scanf\\\uC18C\uC2A41.c",
+              "RelativeDocumentMoniker": "07. Scanf\\\uC18C\uC2A41.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\3\uC7A5 C\uD504\uB85C\uADF8\uB7A8 \uAD6C\uC131\uC694\uC18C\\07. Scanf\\\uC18C\uC2A41.c",
+              "RelativeToolTip": "07. Scanf\\\uC18C\uC2A41.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-20T06:58:16.377Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T06:58:16.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
