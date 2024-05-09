@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\7\uC7A5 \uBC18\uBCF5\uBB38\\",
+  "WorkspaceRootPath": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C55B04BA-B5C4-4E92-B818-E4E163C9DE45}|10. while10\\10. while10.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\7\uC7A5 \uBC18\uBCF5\uBB38\\10. while10\\while10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C55B04BA-B5C4-4E92-B818-E4E163C9DE45}|10. while10\\10. while10.vcxproj|solutionrelative:10. while10\\while10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B37ED06-C694-4394-A4E9-2CDBFB4AEB4E}|08. while8\\08. while8.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\7\uC7A5 \uBC18\uBCF5\uBB38\\08. while8\\while8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B37ED06-C694-4394-A4E9-2CDBFB4AEB4E}|08. while8\\08. while8.vcxproj|solutionrelative:08. while8\\while8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71FCB4D3-EB04-474E-AB19-9C2FDBA57ED9}|09. while9\\09. while9.vcxproj|C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\7\uC7A5 \uBC18\uBCF5\uBB38\\09. while9\\while9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71FCB4D3-EB04-474E-AB19-9C2FDBA57ED9}|09. while9\\09. while9.vcxproj|solutionrelative:09. while9\\while9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{82F6187A-7CB4-4545-B563-D201648C6727}|18. do_while65\\18. do_while65.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\18. do_while65\\do_while5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82F6187A-7CB4-4545-B563-D201648C6727}|18. do_while65\\18. do_while65.vcxproj|solutionrelative:18. do_while65\\do_while5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "while10.c",
-              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\7\uC7A5 \uBC18\uBCF5\uBB38\\10. while10\\while10.c",
-              "RelativeDocumentMoniker": "10. while10\\while10.c",
-              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\7\uC7A5 \uBC18\uBCF5\uBB38\\10. while10\\while10.c",
-              "RelativeToolTip": "10. while10\\while10.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Title": "do_while5.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\18. do_while65\\do_while5.c",
+              "RelativeDocumentMoniker": "18. do_while65\\do_while5.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\18. do_while65\\do_while5.c",
+              "RelativeToolTip": "18. do_while65\\do_while5.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-08T07:39:00.193Z",
+              "WhenOpened": "2024-05-09T03:23:41.749Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "while8.c",
-              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\7\uC7A5 \uBC18\uBCF5\uBB38\\08. while8\\while8.c",
-              "RelativeDocumentMoniker": "08. while8\\while8.c",
-              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\7\uC7A5 \uBC18\uBCF5\uBB38\\08. while8\\while8.c",
-              "RelativeToolTip": "08. while8\\while8.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-08T07:05:56.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "while9.c",
-              "DocumentMoniker": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\7\uC7A5 \uBC18\uBCF5\uBB38\\09. while9\\while9.c",
-              "RelativeDocumentMoniker": "09. while9\\while9.c",
-              "ToolTip": "C:\\Users\\82108\\Desktop\\\uC218\uC5C5, \uBC1C\uD45C \uC790\uB8CC\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02. \uC81C\uCD9C \uC790\uB8CC\\7\uC7A5 \uBC18\uBCF5\uBB38\\09. while9\\while9.c",
-              "RelativeToolTip": "09. while9\\while9.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-08T07:05:23.552Z"
             }
           ]
         }

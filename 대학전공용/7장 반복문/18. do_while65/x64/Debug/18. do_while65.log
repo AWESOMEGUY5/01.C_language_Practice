@@ -1,0 +1,4 @@
+﻿  do_while5.c
+C:\Users\82108\source\repos\대학전공용\7장 반복문\18. do_while65\do_while5.c(14,22): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82108\source\repos\대학전공용\7장 반복문\18. do_while65\do_while5.c(8,62): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  18. do_while65.vcxproj -> C:\Users\82108\source\repos\대학전공용\7장 반복문\x64\Debug\16. do_while5.exe
