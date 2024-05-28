@@ -4,19 +4,16 @@
 
 int main(void)
 {
-	char letter;
-
 	while (1) {
+		char letter;
 		printf("소문자를 입력하시오. : "), scanf(" %c", &letter);
 
-		if (letter == 'Q') {
-			break;
-		} else if (letter < 'a' || letter > 'z') {
+		if (letter < 'a' || letter > 'z') {
 			continue;
+		} else if (letter == 'Q') {
+			break;
 		}
-
-		letter -= 32;
-		printf("변환된 대문자는 %c입니다.\n", letter);
+		printf("변환된 소문자 : %c\n", letter -= 32);
 	}
 	return 0;
 }

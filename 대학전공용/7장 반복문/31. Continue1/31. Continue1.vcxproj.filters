@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Continue.c">
+    <ClCompile Include="Continue1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
