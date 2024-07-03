@@ -1,0 +1,5 @@
+﻿  Interest_Cal.c
+C:\Users\82108\source\repos\대학전공용\7장 반복문\34. Interest_Cal\Interest_Cal.c(15,2): warning C4013: 'calculate'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82108\source\repos\대학전공용\7장 반복문\34. Interest_Cal\Interest_Cal.c(28,1): warning C4716: 'calculate': 값을 반환해야 합니다.
+C:\Users\82108\source\repos\대학전공용\7장 반복문\34. Interest_Cal\Interest_Cal.c(16,1): warning C4716: 'input': 값을 반환해야 합니다.
+  34. Interest_Cal.vcxproj -> C:\Users\82108\source\repos\대학전공용\7장 반복문\x64\Debug\34. Interest_Cal.exe

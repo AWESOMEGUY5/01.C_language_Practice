@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F865BD3-1D41-4524-B336-E7AA8E94A27F}|34. PI_Cal2\\34. PI_Cal2.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\34. PI_Cal2\\PI_Cal2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1F865BD3-1D41-4524-B336-E7AA8E94A27F}|34. PI_Cal2\\34. PI_Cal2.vcxproj|solutionrelative:34. PI_Cal2\\PI_Cal2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9C2225A2-1352-4FA6-99B2-8B27E0CA998E}|36. Gambler\\36. Gambler.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\36. Gambler\\Gambler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C2225A2-1352-4FA6-99B2-8B27E0CA998E}|36. Gambler\\36. Gambler.vcxproj|solutionrelative:36. Gambler\\Gambler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67B9878C-97D3-42C8-8F12-FADE3D9352AE}|33. PI_Cal\\33. PI_Cal.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\33. PI_Cal\\PI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67B9878C-97D3-42C8-8F12-FADE3D9352AE}|33. PI_Cal\\33. PI_Cal.vcxproj|solutionrelative:33. PI_Cal\\PI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0ADD4DF7-A486-4408-A2DC-35F714350DD5}|40. Math_Cal\\40. Math_Cal.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\40. Math_Cal\\math_cal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0ADD4DF7-A486-4408-A2DC-35F714350DD5}|40. Math_Cal\\40. Math_Cal.vcxproj|solutionrelative:40. Math_Cal\\math_cal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D463B5F-D1D2-48E5-8602-67CB69278833}|32. Continue2\\32. Continue2.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\32. Continue2\\Continue2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D463B5F-D1D2-48E5-8602-67CB69278833}|32. Continue2\\32. Continue2.vcxproj|solutionrelative:32. Continue2\\Continue2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AC096A-4A66-4219-97C7-CD64FE316002}|31. Continue1\\31. Continue1.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\31. Continue1\\Continue1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B2AC096A-4A66-4219-97C7-CD64FE316002}|31. Continue1\\31. Continue1.vcxproj|solutionrelative:31. Continue1\\Continue1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E68BD379-DF3C-472B-99AD-FE2685D7A9B4}|34. Interest_Cal\\34. Interest_Cal.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\34. Interest_Cal\\Interest_Cal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E68BD379-DF3C-472B-99AD-FE2685D7A9B4}|34. Interest_Cal\\34. Interest_Cal.vcxproj|solutionrelative:34. Interest_Cal\\Interest_Cal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PI_Cal2.c",
-              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\34. PI_Cal2\\PI_Cal2.c",
-              "RelativeDocumentMoniker": "34. PI_Cal2\\PI_Cal2.c",
-              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\34. PI_Cal2\\PI_Cal2.c",
-              "RelativeToolTip": "34. PI_Cal2\\PI_Cal2.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Title": "Gambler.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\36. Gambler\\Gambler.c",
+              "RelativeDocumentMoniker": "36. Gambler\\Gambler.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\36. Gambler\\Gambler.c",
+              "RelativeToolTip": "36. Gambler\\Gambler.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-28T07:17:10.87Z",
+              "WhenOpened": "2024-07-03T04:54:51.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PI.c",
-              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\33. PI_Cal\\PI.c",
-              "RelativeDocumentMoniker": "33. PI_Cal\\PI.c",
-              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\33. PI_Cal\\PI.c",
-              "RelativeToolTip": "33. PI_Cal\\PI.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Title": "math_cal.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\40. Math_Cal\\math_cal.c",
+              "RelativeDocumentMoniker": "40. Math_Cal\\math_cal.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\40. Math_Cal\\math_cal.c",
+              "RelativeToolTip": "40. Math_Cal\\math_cal.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-28T04:41:32.551Z",
+              "WhenOpened": "2024-07-03T03:56:18.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Continue2.c",
-              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\32. Continue2\\Continue2.c",
-              "RelativeDocumentMoniker": "32. Continue2\\Continue2.c",
-              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\32. Continue2\\Continue2.c",
-              "RelativeToolTip": "32. Continue2\\Continue2.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Title": "Interest_Cal.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\34. Interest_Cal\\Interest_Cal.c",
+              "RelativeDocumentMoniker": "34. Interest_Cal\\Interest_Cal.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\34. Interest_Cal\\Interest_Cal.c",
+              "RelativeToolTip": "34. Interest_Cal\\Interest_Cal.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-28T04:23:37.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Continue1.c",
-              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\31. Continue1\\Continue1.c",
-              "RelativeDocumentMoniker": "31. Continue1\\Continue1.c",
-              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\7\uC7A5 \uBC18\uBCF5\uBB38\\31. Continue1\\Continue1.c",
-              "RelativeToolTip": "31. Continue1\\Continue1.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-28T04:20:30.64Z",
+              "WhenOpened": "2024-07-03T02:47:40.4Z",
               "EditorCaption": ""
             }
           ]
