@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E57B458C-E451-40A4-BF97-8E852B694EED}|64. Union01\\64. Union01.vcxproj|D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\64. Union01\\Union01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E57B458C-E451-40A4-BF97-8E852B694EED}|64. Union01\\64. Union01.vcxproj|solutionrelative:64. Union01\\Union01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BED7BF-C7A8-43AE-AEEB-7309CEA7D9C0}|62. Struct13\\62. Struct13.vcxproj|D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\62. Struct13\\Struct13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57BED7BF-C7A8-43AE-AEEB-7309CEA7D9C0}|62. Struct13\\62. Struct13.vcxproj|solutionrelative:62. Struct13\\Struct13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Union01.c",
+              "DocumentMoniker": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\64. Union01\\Union01.c",
+              "RelativeDocumentMoniker": "64. Union01\\Union01.c",
+              "ToolTip": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\64. Union01\\Union01.c",
+              "RelativeToolTip": "64. Union01\\Union01.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T10:59:03.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Struct13.c",
+              "DocumentMoniker": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\62. Struct13\\Struct13.c",
+              "RelativeDocumentMoniker": "62. Struct13\\Struct13.c",
+              "ToolTip": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\62. Struct13\\Struct13.c",
+              "RelativeToolTip": "62. Struct13\\Struct13.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T05:28:30.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

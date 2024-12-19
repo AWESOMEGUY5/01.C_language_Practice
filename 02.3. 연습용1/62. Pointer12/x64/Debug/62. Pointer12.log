@@ -1,0 +1,4 @@
+﻿  Struct12.c
+D:\1학기\D01. C프로그래밍\02.3. 연습용1\62. Pointer12\Struct12.c(21,48): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\1학기\D01. C프로그래밍\02.3. 연습용1\62. Pointer12\Struct12.c(22,48): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  62. Pointer12.vcxproj -> D:\1학기\D01. C프로그래밍\02.3. 연습용1\x64\Debug\62. Struct12.exe

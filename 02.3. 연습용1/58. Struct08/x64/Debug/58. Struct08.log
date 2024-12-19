@@ -1,0 +1,3 @@
+﻿  Struct09.c
+D:\1학기\D01. C프로그래밍\02.3. 연습용1\58. Struct08\Struct09.c(12,31): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  58. Struct08.vcxproj -> D:\1학기\D01. C프로그래밍\02.3. 연습용1\x64\Debug\58. Struct09.exe
