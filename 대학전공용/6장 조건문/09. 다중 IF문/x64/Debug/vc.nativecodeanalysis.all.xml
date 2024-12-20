@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\82108\source\repos\대학전공용\6장 조건문\09. 다중 IF문\</FILEPATH>
+      <FILENAME>소스.c</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>42</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>반환 값이 무시되었습니다. 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

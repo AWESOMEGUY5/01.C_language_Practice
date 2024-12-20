@@ -1,0 +1,3 @@
+﻿  소스.c
+  01. IF1.vcxproj -> C:\Users\82108\source\repos\대학전공용\6장 조건문\x64\Debug\01. IF1.exe
+C:\Users\82108\source\repos\대학전공용\6장 조건문\01. IF1\소스.c(9): warning C6031: 반환 값이 무시되었습니다. 'scanf'.

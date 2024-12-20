@@ -1,0 +1,2 @@
+C:\Users\82108\source\repos\대학전공용\6장 조건문\x64\Debug\04. 참과 거짓.exe.lastcodeanalysissucceeded
+C:\Users\82108\source\repos\대학전공용\6장 조건문\04. 참과 거짓\x64\Debug\NativeCodeAnalysis.read.1.tlog

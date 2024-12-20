@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\82108\source\repos\대학전공용\5장 수식과 연산자\14. Convert1\소스.c(5,11): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\82108\source\repos\대학전공용\5장 수식과 연산자\14. Convert1\소스.c(5,33): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  14. Convert1.vcxproj -> C:\Users\82108\source\repos\대학전공용\5장 수식과 연산자\x64\Debug\14. Convert1.exe

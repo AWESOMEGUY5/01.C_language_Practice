@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74BB1A6C-C17F-406F-AB9E-8CC2E7051733}|Ex11. Earth\\Ex11. Earth.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\Ex11. Earth\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74BB1A6C-C17F-406F-AB9E-8CC2E7051733}|Ex11. Earth\\Ex11. Earth.vcxproj|solutionrelative:Ex11. Earth\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2E108B-1909-43D0-BB7E-16FBCFF1E2F0}|Ex10. Quadrant\\Ex10. Quadrant.vcxproj|C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\Ex10. Quadrant\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B2E108B-1909-43D0-BB7E-16FBCFF1E2F0}|Ex10. Quadrant\\Ex10. Quadrant.vcxproj|solutionrelative:Ex10. Quadrant\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\Ex11. Earth\\\uC18C\uC2A4.c",
+              "RelativeDocumentMoniker": "Ex11. Earth\\\uC18C\uC2A4.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\Ex11. Earth\\\uC18C\uC2A4.c",
+              "RelativeToolTip": "Ex11. Earth\\\uC18C\uC2A4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T05:09:07.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uC18C\uC2A4.c",
+              "DocumentMoniker": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\Ex10. Quadrant\\\uC18C\uC2A4.c",
+              "RelativeDocumentMoniker": "Ex10. Quadrant\\\uC18C\uC2A4.c",
+              "ToolTip": "C:\\Users\\82108\\source\\repos\\\uB300\uD559\uC804\uACF5\uC6A9\\5\uC7A5 \uC218\uC2DD\uACFC \uC5F0\uC0B0\uC790\\Ex10. Quadrant\\\uC18C\uC2A4.c",
+              "RelativeToolTip": "Ex10. Quadrant\\\uC18C\uC2A4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T04:43:11.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
