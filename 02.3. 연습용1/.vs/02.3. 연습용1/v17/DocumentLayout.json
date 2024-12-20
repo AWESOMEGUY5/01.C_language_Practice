@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E57B458C-E451-40A4-BF97-8E852B694EED}|64. Union01\\64. Union01.vcxproj|D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\64. Union01\\Union01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E57B458C-E451-40A4-BF97-8E852B694EED}|64. Union01\\64. Union01.vcxproj|solutionrelative:64. Union01\\Union01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{67058875-5CE9-4004-B87B-0CD38E7BA9E0}|67.Enum02\\67.Enum02.vcxproj|D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\67.Enum02\\Enum02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67058875-5CE9-4004-B87B-0CD38E7BA9E0}|67.Enum02\\67.Enum02.vcxproj|solutionrelative:67.Enum02\\Enum02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57BED7BF-C7A8-43AE-AEEB-7309CEA7D9C0}|62. Struct13\\62. Struct13.vcxproj|D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\62. Struct13\\Struct13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{57BED7BF-C7A8-43AE-AEEB-7309CEA7D9C0}|62. Struct13\\62. Struct13.vcxproj|solutionrelative:62. Struct13\\Struct13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{073FD40F-CBA8-4A05-8102-36C236594EF8}|66. Enum01\\66. Enum01.vcxproj|D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\66. Enum01\\Enum01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{073FD40F-CBA8-4A05-8102-36C236594EF8}|66. Enum01\\66. Enum01.vcxproj|solutionrelative:66. Enum01\\Enum01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Union01.c",
-              "DocumentMoniker": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\64. Union01\\Union01.c",
-              "RelativeDocumentMoniker": "64. Union01\\Union01.c",
-              "ToolTip": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\64. Union01\\Union01.c",
-              "RelativeToolTip": "64. Union01\\Union01.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Title": "Enum02.c",
+              "DocumentMoniker": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\67.Enum02\\Enum02.c",
+              "RelativeDocumentMoniker": "67.Enum02\\Enum02.c",
+              "ToolTip": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\67.Enum02\\Enum02.c",
+              "RelativeToolTip": "67.Enum02\\Enum02.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-19T10:59:03.142Z",
+              "WhenOpened": "2024-12-20T12:03:32.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Struct13.c",
-              "DocumentMoniker": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\62. Struct13\\Struct13.c",
-              "RelativeDocumentMoniker": "62. Struct13\\Struct13.c",
-              "ToolTip": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\62. Struct13\\Struct13.c",
-              "RelativeToolTip": "62. Struct13\\Struct13.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Title": "Enum01.c",
+              "DocumentMoniker": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\66. Enum01\\Enum01.c",
+              "RelativeDocumentMoniker": "66. Enum01\\Enum01.c",
+              "ToolTip": "D:\\1\uD559\uAE30\\D01. C\uD504\uB85C\uADF8\uB798\uBC0D\\02.3. \uC5F0\uC2B5\uC6A91\\66. Enum01\\Enum01.c",
+              "RelativeToolTip": "66. Enum01\\Enum01.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-19T05:28:30.841Z",
+              "WhenOpened": "2024-12-20T11:53:38.379Z",
               "EditorCaption": ""
             }
           ]
